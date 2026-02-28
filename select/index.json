@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Fall In Love Alone",
+  "base_artist": "Stacey Ryan",
+  "createdAt": "2026-02-28T09:31:47.657650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/01_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan - Topic",
+      "has_synced": true,
+      "path": "select/02_Fall_In_Love_Alone_Stacey_Ryan_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/03_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/04_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/05_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/06_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/07_Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "33.Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/08_33.Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "41.Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": true,
+      "path": "select/09_41.Fall_In_Love_Alone_Stacey_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fall In Love Alone",
+      "artist": "Ziva Magnolya",
+      "has_synced": true,
+      "path": "select/10_Fall_In_Love_Alone_Ziva_Magnolya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fall In Love Alone",
+      "artist": "Stacey Ryan",
+      "has_synced": false,
+      "path": "select/pl_01_Fall_In_Love_Alone_Stacey_Ryan.txt"
+    }
+  ]
+}
